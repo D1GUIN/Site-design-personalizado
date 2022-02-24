@@ -1,0 +1,138 @@
+
+body {
+    color: #40514E;
+    background-color: #eaf0f3;
+    margin: 0px;
+    text-align: center;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-size: 4.5em;
+    font-family: 'Montaga', serif;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+}
+
+.top-container{
+    background-color: rgb(197, 240, 240);
+}
+
+.top-cloud{
+    padding-top: 40px;
+    position: relative;
+    left: 350px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    top: 390px;
+}
+
+.lindo{
+    width: 140px;
+    height: 160px;
+    border-radius: 100%;
+}
+
+.hab{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.hbb{
+    width: 25%;
+    float: right;
+    margin-left: 32px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skills {
+    margin: 100px auto 100px auto;
+}
+
+hr{
+    margin: 100px auto 100px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+.baixo-container{
+    background-color: #66BFBF;
+    height: 90px;
+    margin-top: 70px;
+    padding: 50px 0 20px;
+}
+
+.btn{
+    text-transform: uppercase;
+    background-image: linear-gradient(to top,#11999E ,#66BFBF);
+    border: none;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    transition: 0.2s;
+    color: black;
+    background-image: linear-gradient(to top, #11999E, #35e4c9);
+}
+
+.baixoo{
+    margin-bottom: 70px;
+}
+
+.h33{
+    margin: 50px auto 50px auto;
+}
+
+.footer-link{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #11999E;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.footer-link:hover{
+    transition: .2s;
+    color: white;
+}
+
+.pp{
+    color: #EAF6F6;
+    padding-top: 20px;
+}
+
+p{
+    line-height: 2;
+}
