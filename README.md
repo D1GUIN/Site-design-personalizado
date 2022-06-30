@@ -1,15 +1,15 @@
-### Autor
+### Author
 
 - Diego Valois
 
 ### Link
 
-URL: https://d1guin.github.io/Site-design-personalizado/
+Site URL: [https://d1guin.github.io/Site-design-personalizado/]
 
-### Comentários
+### Comment
 
-Site orientado por um curso de progamação
+Website guided by a programming course.
 
-### Nivel
+### Level
 
-Começando a aprender Sobre Progamação.
+Starting to learn About Programming.
